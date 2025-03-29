@@ -35,7 +35,7 @@ pip install torch torchvision torchmetrics torch-fidelity tensorboard tqdm numpy
 ## Running the Code
 ### Clone the repository
 ```sh
-git clone <repo-url>
+git clone https://github.com/vanshikaTyg/GANLossFunctions_MedmnistDataset/tree/main
 cd <repo-folder>
 ```
 
